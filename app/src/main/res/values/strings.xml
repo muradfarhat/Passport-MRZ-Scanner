@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Passport Reader</string>
+    <string name="capture_passport">Capture Passport</string>
+</resources>
